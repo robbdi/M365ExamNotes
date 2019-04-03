@@ -1,0 +1,42 @@
+M365 RBAC
+ 
+AAD
+ 
+https://docs.microsoft.com/en-us/azure/active-directory/active-directory-assign-admin-roles-azure-portal
+ 
+https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-built-in-roles
+ 
+https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-configure
+ 
+https://docs.microsoft.com/en-us/azure/active-directory/active-directory-manage-groups
+ 
+https://docs.microsoft.com/en-us/azure/active-directory/active-directory-groups-create-azure-portal
+ 
+https://docs.microsoft.com/en-us/azure/active-directory/role-based-access-control-custom-roles
+ 
+Windows Defender ATP
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection
+ 
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/rbac-windows-defender-advanced-threat-protection
+ 
+Azure ATP
+https://docs.microsoft.com/en-us/azure-advanced-threat-protection/atp-role-groups
+ 
+Cloud App Security
+https://docs.microsoft.com/en-us/cloud-app-security/manage-admins
+  
+Azure Identity Protection
+https://docs.microsoft.com/en-us/azure/active-directory/active-directory-identityprotection
+ 
+Intune
+https://docs.microsoft.com/en-us/intune/role-based-access-control
+ 
+SCC
+https://support.office.com/en-us/article/permissions-in-the-office-365-security-compliance-center-d10608af-7934-490a-818e-e68f17d0e9c1?ui=en-US&rs=en-US&ad=US
+ 
+Exchange
+https://technet.microsoft.com/en-us/library/dd298183(v=exchg.150).aspx
+ 
+Admin Center
+https://support.office.com/en-us/article/about-office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d
+
